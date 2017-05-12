@@ -1,0 +1,41 @@
+/* The color changes when the mouse is over the button. */
+a:hover{
+    background-color: #e8e8e8;
+}
+/* The bar that holds the items. */
+#gui_container{
+    background: #eef;
+    border-bottom: 1px solid #e8e8e8;
+    padding-bottom: 55px;
+    padding-top: 7px;
+    position: relative;
+}
+/*to a base 48px BY 48px  */
+.image-cropper {
+    position:relative;
+    float: left;
+    width: 48px;
+    height: 48px;
+    margin-left: 10px;
+    overflow: hidden;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+.guide-item {
+    position: inherit;
+    float: left;
+    display: block;
+    align-content: center;
+    margin-left: 1px;
+    text-decoration: none;
+    color: black;
+    padding: 15px 5px 15px 5px;
+}
+h1 {
+    color: black;
+    font-size: 32px;
+}
+div h1, p {
+    max-width: 50%;
+    margin-left: 30%;
+}

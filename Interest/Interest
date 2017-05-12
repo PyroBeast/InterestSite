@@ -1,0 +1,44 @@
+{
+  "htmlFiles": [
+    {
+      "fileId": "0B22wi4cqPDPiSzBrSWhUVTNKOWs",
+      "contentType": "text/html",
+      "name": "info.html",
+      "path": "0B22wi4cqPDPidEpMX1FPYWhvbFk"
+    },
+    {
+      "fileId": "0B22wi4cqPDPiT0pGeFVnR1UxbWs",
+      "contentType": "text/html",
+      "name": "index.html",
+      "path": "0B22wi4cqPDPidEpMX1FPYWhvbFk/html"
+    }
+  ],
+  "cssFiles": [
+    {
+      "fileId": "0B22wi4cqPDPicjkzV0ExbzA1eWM",
+      "contentType": "text/css",
+      "name": "style.css",
+      "path": "0B22wi4cqPDPidEpMX1FPYWhvbFk/"
+    },
+    {
+      "fileId": "0B22wi4cqPDPidG1ueFpfdTI2bWM",
+      "contentType": "text/css",
+      "name": "info.css",
+      "path": "0B22wi4cqPDPidEpMX1FPYWhvbFk"
+    }
+  ],
+  "javascriptFiles": [
+    {
+      "fileId": "0B22wi4cqPDPiUENjcjZTOVpHQU0",
+      "contentType": "text/javascript",
+      "name": "functions.js",
+      "path": "0B22wi4cqPDPidEpMX1FPYWhvbFk"
+    },
+    {
+      "fileId": "0B22wi4cqPDPiOWhodzJxV0ROUEk",
+      "contentType": "text/javascript",
+      "name": "jquery-3.2.1.js",
+      "path": "0B22wi4cqPDPidEpMX1FPYWhvbFk/js"
+    }
+  ]
+}
